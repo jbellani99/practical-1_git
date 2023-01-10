@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 github rocks
+=======
+hello
+
+>>>>>>> 48fdfd9 (looking for merge and pull)
